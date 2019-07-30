@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { cleanup, render, wait, fireEvent } from 'react-testing-library';
+import { cleanup, render, wait, fireEvent } from '@testing-library/react';
 import {
   Formik,
   Field,
